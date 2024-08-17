@@ -3,7 +3,7 @@
 
 <div align="center">
 
-> *Projeto desenvolvido no evento "Semana do Zero ao Programador Contratado".*
+> *Projeto desenvolvido no evento "Semana do Zero ao Programador Contratado do  __DEV EM DOBRO__".*
 
 
   
